@@ -1,5 +1,5 @@
 build:
-	docker build -t dakl/mosquitto-rpi .
+	docker build -t dakl/rpi-mosquitto .
 
 push:
-	docker push dakl/mosquitto-rpi
+	docker push dakl/rpi-mosquitto
